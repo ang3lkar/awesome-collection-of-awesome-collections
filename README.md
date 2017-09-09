@@ -9,3 +9,4 @@ A curated collection of curated collections
 | [Awesome Shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. |
 | [Awesome AWS](https://github.com/donnemartin/awesome-aws) | A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. |
 | [Awesome Redux](https://github.com/xgrommx/awesome-redux) | Awesome list of Redux examples and middlewares. |
+| [Web development newletters](https://gist.github.com/threequal/a5c58208eb0d2082b011accc06796945) | ... |
