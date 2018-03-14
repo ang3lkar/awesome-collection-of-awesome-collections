@@ -1,5 +1,4 @@
 # A curated list of awesome collections and curated lists
-A curated collection of curated collections
 
 | Name  | Description |
 | ------------- | ------------- |
