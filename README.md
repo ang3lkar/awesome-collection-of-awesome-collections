@@ -12,3 +12,4 @@ A curated collection of curated collections
 | [Newsletters](https://gist.github.com/threequal/a5c58208eb0d2082b011accc06796945) | A list of Web Development Newsletters |
 | [Awesome READMEs](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 | [Node best practices](https://github.com/i0natan/nodebestpractices) | Curated from the top ranked articles and always updated |
+| [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) | A curated list of Rust code & resources |
